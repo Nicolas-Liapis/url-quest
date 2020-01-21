@@ -1,0 +1,12 @@
+{
+    "name": "url-quest",
+    "version": "1.0.1",
+    "description": "Gets URLs",
+    "license": "MIT",
+    "repository": "nicolas.liapis/url-quest",
+    "main": "index.js",
+    "keywords": [
+        "url-quest",
+        "npm"
+    ]
+}
